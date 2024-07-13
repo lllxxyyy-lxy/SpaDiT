@@ -5,7 +5,7 @@ ST data for the prediction of undetected genes
 
 ## Overview of SpaDiT
 
-![](C:\Users\DELL\Desktop\SpaDiT\SpaDiT\model\model.png)
+![](model/model.png)
 
 ## Setup
 
